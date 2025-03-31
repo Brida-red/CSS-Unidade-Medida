@@ -1,9 +1,9 @@
 .cor {
-color: rgb(219, 78, 68)
+backgroud: rgb(219, 78, 68)
 }
 .cor-clara {
-color: rgb (252, 90, 78)
+backgroud: rgb (252, 90, 78)
 }
 .cor-escura {
-color: rgb (186, 66, 58)
+backgroud: rgb (186, 66, 58)
 }
